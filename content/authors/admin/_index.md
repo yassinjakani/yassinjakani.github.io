@@ -145,27 +145,24 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: First National Prize, Huawei ICT Competition, Northern
+Africa.
+    url: https://neurips.cc/](https://www.huawei.com/en/news/2022/7/north-africa-com2022)
+    date: '2022--'
+    awarder: Hauwei
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      Awarded for groundbreaking work on cloud computing.
+  - title: First prize, Huawei Developer Competition, Northen Africa, Egypt.
+    url: https://developer.huaweicloud.com/intl/en-us/competition/NorthernAfrica2022.html
+    date: '2022'
+    awarder: Huawei northen africa.
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      NLP/Cloud based solution for education and students guidnace.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+PhD at the Faculty of Sciences in Agadir, specializing in advancing the Internet of Things (IoT) through
+innovative deep learning applications. My academic journey is enriched by a strong record in research and
+teaching, including courses in engineering and network security at ENSA Agadir and FSA Agadir , alongside active contributions to academic discourse through international conference presentations . I hold certifications from Huawei in 5G, cloud services, and AI , underscoring my technical expertise. Recognized for leadership and excellence, I led a team to win 1st prize in the Northern Africa Huawei Developer Competition , was a finalist in the Huawei ICT Competition for Cloud Computing , and was selected for the 2022 Seeds for the Future program. Committed to community engagement, I volunteer with Science for All to enhance digital capabilities in the Agadir region and frequently contribute to public tech education as a speaker at Google DevFest events.
+
