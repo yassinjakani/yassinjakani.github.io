@@ -34,69 +34,69 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'jakani.yassin@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://x.com/AlexAIResearch
+ # - icon: brands/github
+  #  url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/yassin-el-jakani/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=AismvOgAAAAJ&hl
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+    url: https://orcid.org/0009-0005-8188-2141
 interests:
-  - Large Language Models
+  - Artificielle intelligence
+  - Internet of things
   - Computer Vision
-  - Reinforcement Learning
+  - Federated Learning
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Computer Science (AI/IoT Focus)
+    institution: Ibn Zohr University
+    date_start: 2020-01-01
+    date_end: 25-07-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on advancing the Internet of Things (IoT) Quality of service through
+innovative deep learning models. Published 8 papers.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+     # text: 'Read Thesis'
+     # url: 'https://example.com/thesis.pdf'
+  - area: MS Data Science
+    institution: Ibn Zohr University
+    date_start: 2018-09-01
+    date_end: 2020-10-31
     summary: |
-      GPA: 4.0/4.0
+   #   GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
+      Specialized in Data science.
   - area: BS Computer Science
     institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2014-09-01
+    date_end: 2018-05-31
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+    #  GPA: 3.9/4.0
+      Mathematics and Computer science.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Part-Time Professor in AI/computer networks/CyberSecurity
+    company_name: "Ecole Nationale des Sciences Appliquées - Agadir"
+    company_url: 'https://www.uiz.ac.ma/ecole-nationale-des-sciences-appliquees-agadir'
     company_logo: ''
     date_start: 2020-01-01
-    date_end: ''
+    date_end: '2023-06-30'
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+  - position: Freelancer at fiverr.com
+    company_name: -
+    company_url: 'https://fiverr.com/'
     company_logo: ''
     date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_end: ''
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on building machine learning models.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -134,9 +134,11 @@ skills:
 
 languages:
   - name: English
+    percent: 90
+  - name: Frensh
+    percent: 70
+  - name: Arabic
     percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
