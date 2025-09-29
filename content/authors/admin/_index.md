@@ -90,7 +90,7 @@ work:
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
   - position: Freelancer at fiverr.com
-    company_name: -
+    company_name: ''
     company_url: 'https://fiverr.com/'
     company_logo: ''
     date_start: 2019-06-01
