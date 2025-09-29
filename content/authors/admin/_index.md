@@ -59,7 +59,7 @@ education:
     date_start: 2020-01-01
     date_end: 25-07-30
     summary: |
-      Thesis on advancing the Internet of Things (IoT) Quality of service through innovative deep learning models. Published 8 papers.
+   #   Thesis on advancing the Internet of Things (IoT) Quality of service through innovative deep learning models. Published 8 papers.
     button:
      # text: 'Read Thesis'
      # url: 'https://example.com/thesis.pdf'
