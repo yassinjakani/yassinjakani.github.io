@@ -61,8 +61,8 @@ education:
     summary: |
    #   Thesis on advancing the Internet of Things (IoT) Quality of service through innovative deep learning models. Published 8 papers.
     button:
-     # text: 'Read Thesis'
-     # url: 'https://example.com/thesis.pdf'
+  # text: 'Read Thesis'
+  # url: 'https://example.com/thesis.pdf'
   - area: MS Data Science
     institution: Ibn Zohr University
     date_start: 2018-09-01
